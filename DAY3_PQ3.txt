@@ -1,0 +1,14 @@
+Question 3
+public class DAY3_PQ3 {
+	
+	/*3.write a java program to fill in a letter template which boks like below :
+	 *letter=dear <|name|>, thans a lot"
+  	 *Replace <|name|> with a string (sare name)
+	/
+
+	public static void main(String[] args) {
+        	String letter="Dear name, thanks a lot!";
+		letter=letter.replace("name","Harry");
+        	System.out.println(letter);
+    }
+}

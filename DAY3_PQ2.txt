@@ -1,0 +1,9 @@
+Question 2
+public class DAY3_PQ2 {
+	//write a java program to replace space with undescore 
+	public static void main(String[] args) {
+        	String text="To My Friend";
+		text=text.replace(" ","_");
+        	System.out.println(text);
+    }
+}

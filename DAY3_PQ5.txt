@@ -1,0 +1,9 @@
+Question 5
+public class DAY3_PQ5 {
+	//5.Write a program to format the following letter using escape sequence character
+
+	public static void main(String[] args) {
+        	String letter="Dear Harry,\n\tThis java course is nice.\nThanks!";
+        	System.out.println(name);
+    }
+}

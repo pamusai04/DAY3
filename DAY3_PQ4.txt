@@ -1,0 +1,10 @@
+Question 4
+public class DAY3_PQ4 {
+	//4.Write a java program to delete double and triple space in a string 
+	
+	public static void main(String[] args) {
+        	String myString="This string contains   double and triple spaces";
+        	System.out.println(myString.indexOf("   "));
+		System.out.println(myString.indexOf("     "));
+    }
+}

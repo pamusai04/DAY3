@@ -1,0 +1,9 @@
+Question 1
+public class DAY3_PQ1 {
+	//1.write a java program to convert a string to lowerCase
+	public static void main(String[] args) {
+        	String name="Jack Parker";
+		name=name.toLowerCase();
+        	System.out.println(name);
+    }
+}
